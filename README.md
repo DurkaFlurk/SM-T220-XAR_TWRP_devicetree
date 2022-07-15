@@ -1,2 +1,2 @@
 # SM-T220-XAR_TWRP
-W.I.P
+Work.In.Progress
