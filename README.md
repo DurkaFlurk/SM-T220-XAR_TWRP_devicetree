@@ -1,2 +1,2 @@
-# galaxy-tab-a7-lite_TWRP
+# SM-T220-XAR_TWRP
 W.I.P
